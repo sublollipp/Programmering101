@@ -1,11 +1,3 @@
-void setup() {
-  return;
-}
-
-void draw() {
-  return;
-}
-
 class Menneske {
   String navn;
   int alder;
